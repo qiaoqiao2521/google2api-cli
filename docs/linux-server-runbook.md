@@ -99,7 +99,7 @@ If Google login is required, complete it there so the same server-side Chrome pr
 
 ```bash
 mkdir -p "$HOME/work"
-git clone https://github.com/muqiao215/google2api-cli.git "$HOME/work/google2api-cli"
+git clone https://github.com/qiaoqiao2521/google2api-cli.git "$HOME/work/google2api-cli"
 cd "$HOME/work/google2api-cli"
 ~/.local/bin/uv sync
 ```
